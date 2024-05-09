@@ -5,4 +5,5 @@ public class User {
 	String Nome;
 	String Senha;
 	String Email;
+	String CPF;
 }
